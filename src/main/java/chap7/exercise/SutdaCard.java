@@ -1,4 +1,4 @@
-package chap7.exercise;
+package main.java.chap7.exercise;
 
 /**
  * Created by seongjuhyeon on 6/21/16.

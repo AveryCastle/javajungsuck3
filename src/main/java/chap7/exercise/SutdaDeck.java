@@ -1,6 +1,4 @@
-package chap7.exercise;
-
-import java.util.Random;
+package main.java.chap7.exercise;
 
 /**
  * Created by seongjuhyeon on 6/21/16.
